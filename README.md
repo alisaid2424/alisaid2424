@@ -2,8 +2,7 @@
 <h3 align="center">Frontend Developer · React.js | Next.js | TypeScript</h3>
 
 <p align="center">
-  <a href="https://portfolio-ali-asy.vercel.app" target="_blank"
-  rel="noopener noreferrer">🌐 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://portfolio-ali-asy.vercel.app" target="_blank" >🌐 Portfolio</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/ali-asy-579980256" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="mailto:aliasy19932017@gmail.com">📧 Email</a>
 </p>
@@ -76,6 +75,6 @@ Results-driven Frontend Developer with **2+ years of experience** building scala
 
 <p align="center">
   <a href="https://linkedin.com/in/ali-asy-579980256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://portfolio-ali-asy2424.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://portfolio-ali-asy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="mailto:aliasy19932017@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
