@@ -2,7 +2,8 @@
 <h3 align="center">Frontend Developer · React.js | Next.js | TypeScript</h3>
 
 <p align="center">
-  <a href="https://portfolio-ali-asy2424.netlify.app" target="_blank">🌐 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://portfolio-ali-asy.vercel.app" target="_blank"
+  rel="noopener noreferrer">🌐 Portfolio</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/ali-asy-579980256" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="mailto:aliasy19932017@gmail.com">📧 Email</a>
 </p>
