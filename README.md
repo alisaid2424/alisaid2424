@@ -54,6 +54,7 @@ Results-driven Frontend Developer with **2+ years of experience** building scala
 
 | Project | Description | Tech | Links |
 |--------|-------------|------|-------|
+| 🚗 **Drive-Rental** | Full-stack car rental platform with Stripe payments, Clerk Auth, and an admin dashboard with revenue analytics | Next.js 16, TypeScript, Prisma, PostgreSQL, Stripe, shadcn/ui | [Code](https://github.com/alisaid2424/drive-rental-app) · [Demo](https://drive-rental-app.vercel.app) |
 | 🏨 **Hotels Booking** | Reservation platform with Clerk Auth & Server Actions — **40% faster** booking flow | Next.js, TypeScript, Zod, Framer Motion | [Code](https://github.com/alisaid2424/hotels-booking) · [Demo](https://hotels-booking-chi.vercel.app) |
 | 🎬 **QuickCinema** | Movie discovery app with 500+ movies, SSR for SEO — **35% faster** load time | React, Next.js, TypeScript, REST API | [Code](https://github.com/alisaid2424/QuickCinema) · [Demo](https://quick-cinema-beige.vercel.app) |
 | 🛒 **Mercado** | E-commerce marketplace with 100+ products & 25+ reusable components — **30% perf boost** | React, Next.js, Redux Toolkit | [Code](https://github.com/alisaid2424/mercando-app) · [Demo](https://mercando-app-vg58.vercel.app) |
